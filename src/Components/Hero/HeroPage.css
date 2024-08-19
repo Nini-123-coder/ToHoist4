@@ -1,0 +1,71 @@
+.hero{
+    width: 100%;
+    height: 70vh;
+    background: url(../../assets/tth.webp);
+    /* background-color: red; */
+    background-size:100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    
+}
+.heropage{
+    width: 70%;
+    height: 70vh;
+    background-color: rgba(0, 0, 0, 0.349);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.page{
+    width: 70%;
+    height: 43%;
+    /* background-color: aqua; */
+}
+h2{
+    font-size: 64px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+
+}
+.btn-holder{
+    width: 60%;
+    height: 40px;
+    /* background-color: aqua; */
+    display: flex;
+    gap:20px;
+    margin-top: 20px;
+
+   
+}
+.hero-btn{
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    color: #ffffff;
+}
+.hero-btn2{
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    background: #ffffff;
+}
+.lines{
+    width: 60%;
+    height: 5%;
+    /* background-color: aqua; */
+    margin-top: 10px;
+    color: white;
+}
+.lined{
+    width: 60%;
+    height: 4%;
+    /* background-color: aquamarine; */
+}
+.rate{
+    width: 60%;
+    height: 16%;
+    color: #ffffff;
+}
